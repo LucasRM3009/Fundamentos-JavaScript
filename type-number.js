@@ -1,4 +1,4 @@
-//  Digitar no terminal o comando { node type-number } para executar o código.
+//  Digitar no terminal o comando { node type-number.js } para executar o código.
 
 // Tipo Number
 
